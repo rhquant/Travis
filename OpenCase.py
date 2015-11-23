@@ -19,3 +19,6 @@ def statuscheck():
         print("The case number you have entered is invalid.")
 while (done == False):
     statuscheck()
+
+
+#what the fudge
